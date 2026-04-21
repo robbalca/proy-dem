@@ -1,4 +1,3 @@
-
 ________________________________________
 Análisis Comparativo de Modelos para la Proyección de Demanda de Gas Natural en el Sector Eléctrico Peruano
 Este repositorio contiene la implementación técnica y el análisis comparativo de modelos clásicos (Econométricos y ARIMA) frente a modelos modernos (Machine Learning - Prophet) para el pronóstico de la demanda de gas natural en la generación eléctrica del Sistema Eléctrico Interconectado Nacional (SEIN) del Perú.
@@ -45,4 +44,7 @@ ________________________________________
 Para consultas sobre el alcance técnico o colaboración en futuras líneas de investigación, puede contactarme a través de este repositorio o los canales académicos correspondientes.
 ________________________________________
 Este proyecto forma parte de la línea de investigación en Energética y Data Science aplicada al sector eléctrico peruano.
+
+
+
 
