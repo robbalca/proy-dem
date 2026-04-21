@@ -1,15 +1,6 @@
-<<<<<<< HEAD
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from prophet import Prophet
-from sklearn.metrics import mean_squared_error, mean_absolute_error
-=======
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from prophet import Prophet
-from sklearn.metrics import mean_squared_error, mean_absolute_error
->>>>>>> 6fbaf20e67dd2066389c94784f756388d82a522a
+numpy 
+pandas 
+matplotlib.pyplot 
+seaborn 
+prophet 
+sklearn.metrics 
